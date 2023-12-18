@@ -1,0 +1,224 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "José",
+      "surnames": "Pino Guisado",
+      "title": "Consultor de Administración Electrónica",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/c73fc3ac-6a05-4d72-a245-a5b3c0e5e870_linkedin-photo-4605.linkedin-photo-4605",
+        "alt": "23/12/18/c73fc3ac-6a05-4d72-a245-a5b3c0e5e870_linkedin-photo-4605.linkedin-photo-4605"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLdjgcRFvEg0RQZEysc6y_q8)",
+        "country": "España",
+        "region": "Andalusia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/josepino"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ayesa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/2ffd5f8e-3a6c-4365-bbb7-25585bd6cc19_linkedin-photo-4605.linkedin-photo-4605",
+            "alt": "23/12/18/2ffd5f8e-3a6c-4365-bbb7-25585bd6cc19_linkedin-photo-4605.linkedin-photo-4605"
+          }
+        },
+        "roles": [
+          {
+            "name": "Consultor de Administración Electrónica",
+            "startDate": "2022-07-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SPAI innova",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/ed521bdd-b905-4922-9718-f35d9ecf873a_linkedin-photo-4605.linkedin-photo-4605",
+            "alt": "23/12/18/ed521bdd-b905-4922-9718-f35d9ecf873a_linkedin-photo-4605.linkedin-photo-4605"
+          }
+        },
+        "roles": [
+          {
+            "name": "Consultor de Administración Electrónica",
+            "startDate": "2018-11-01",
+            "finishDate": "2022-06-30",
+            "challenges": [
+              {
+                "description": "Labores de consultoría y gestión de proyectos.\n\nEntre otras funciones: gestión del proceso de toma de datos, configuración y parametrización de la plataforma de eAdministración para adaptarla a las concretas necesidades del cliente. Planificación y control de las tareas precedentes a la puesta en marcha, formación a los usuarios finales y administradores del sistema, asistencia a la puesta en marcha y posterior soporte al cliente. Desarrollo de reuniones de seguimiento y control del estado de ejecución del proyecto."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GUADALTEL, S.A.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/3f17bb4d-fc5d-46d1-9375-16940df3492b_linkedin-photo-4605.linkedin-photo-4605",
+            "alt": "23/12/18/3f17bb4d-fc5d-46d1-9375-16940df3492b_linkedin-photo-4605.linkedin-photo-4605"
+          }
+        },
+        "roles": [
+          {
+            "name": "Consultor de Administración Electrónica",
+            "startDate": "2016-05-01",
+            "finishDate": "2018-11-30",
+            "challenges": [
+              {
+                "description": "Labores de Consultoría en Administración Electrónica. Análisis de impacto e implementación de las medidas tecnológicas desarrolladas en las Leyes 39/2015 y 40/2015 así como de otras leyes de carácter sectorial.\n\nAnálisis, diseño y adaptación de procesos administrativos a las nuevas tecnologías, modernización de la administración.\n\nEn definitiva, nuestro trabajo consiste en ayudar a las Administraciones Públicas a adaptarse a un entorno cambiante, conectado y en el que se requieren respuestas ágiles."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Despacho Benito Saldaña Barragán"
+        },
+        "roles": [
+          {
+            "name": "Abogado",
+            "startDate": "2013-09-01",
+            "finishDate": "2016-03-31",
+            "challenges": [
+              {
+                "description": "Despacho Saldaña es una pequeña boutique especializada en la práctica de Derecho Penal.\n\nSu socio fundador, Benito Saldaña, es un reconocido penalista en la ciudad de Sevilla donde ha dirigido multitud de causas de distinto rango con un notable nivel de éxito.\n\nMis funciones en el despacho han crecido con el tiempo: desde la redacción de demandas, denuncias y escritos hasta la dirección jurídica de diferentes asuntos de ambito penal y civil."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CaixaBank",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/9a177c29-eedf-4aba-b8ea-6683bf755eb7_linkedin-photo-4605.linkedin-photo-4605",
+            "alt": "23/12/18/9a177c29-eedf-4aba-b8ea-6683bf755eb7_linkedin-photo-4605.linkedin-photo-4605"
+          }
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de administración",
+            "startDate": "2012-12-01",
+            "finishDate": "2013-01-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Con Acento Debate y Comunicación SL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/b2c886ba-b96f-4665-bcf3-3fdaa46f2fa6_linkedin-photo-4605.linkedin-photo-4605",
+            "alt": "23/12/18/b2c886ba-b96f-4665-bcf3-3fdaa46f2fa6_linkedin-photo-4605.linkedin-photo-4605"
+          }
+        },
+        "roles": [
+          {
+            "name": "Socio fundador",
+            "startDate": "2011-12-01",
+            "finishDate": "2016-02-28"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redmine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/josepino",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "josepinoguisado@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Product Owner",
+        "Project Manager & Delivery Manager"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Microsoft Office 365",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Redmine",
+        "type": "technology"
+      },
+      {
+        "name": "Trello",
+        "type": "technology"
+      },
+      {
+        "name": "Visual Studio Code",
+        "type": "technology"
+      }
+    ]
+  }
+}
