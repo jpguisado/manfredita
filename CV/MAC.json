@@ -195,12 +195,7 @@
         "Project Manager & Delivery Manager"
       ]
     },
-    "status": "searchingActively",
-    "requirements": {
-      "contractTypes": [
-        "permanent"
-      ]
-    }
+    "status": "searchingActively"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
