@@ -31,6 +31,45 @@
     "jobs": [
       {
         "organization": {
+          "name": "AYESA",
+          "URL": "https://ayesa-digital.com"
+        },
+        "roles": [
+          {
+            "name": "Project Manager",
+            "startDate": "2025-01-01",
+            "challenges": [
+              {
+                "description": "As Project Manager, I help keep everyone aligned around what matters most for the business. I work with the team to prioritize tasks, balance different stakeholder needs, and make sure we focus our time and resources where they can create the most value. I also bring my perspective on business-related topics to help guide decisions and keep the project moving in the right direction."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ChatGPT",
+                "type": "technology"
+              },
+              {
+                "name": "Claude Code",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Mantis",
+                "type": "technology"
+              },
+              {
+                "name": "Redmine",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Ayesa",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/2ffd5f8e-3a6c-4365-bbb7-25585bd6cc19_linkedin-photo-4605.linkedin-photo-4605",
