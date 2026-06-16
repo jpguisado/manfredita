@@ -231,6 +231,12 @@
       ],
       "contactMails": [
         "josepinoguisado@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "692428213",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
