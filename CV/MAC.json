@@ -32,6 +32,10 @@
       {
         "organization": {
           "name": "AYESA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/06/16/853ef78a-ca3e-4949-aa29-cabd9785ed0e_ayesa-dig-v2.png",
+            "alt": "ayesa-dig-v2.png"
+          },
           "URL": "https://ayesa-digital.com"
         },
         "roles": [
